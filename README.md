@@ -1,1 +1,1 @@
-# Generative-AI-ProjectOPP
+# Generative-AI-Project
